@@ -4,10 +4,9 @@ export default {
         port: 3001
     },
     mongodb: {
-        host: '',
-        port: '',
-        database: '',
-        username: '',
+        host: 'localhost',
+        port: '27017',
+        userName: '',
         password: ''
     }
 }
